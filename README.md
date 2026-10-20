@@ -9,9 +9,9 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 
 | 用途 | 地址 |
 |---|---|
-| 免费试用 / 订阅入口 | https://tryrava.com/go?s=github-trial |
-| 完整试用指南（图表版） | https://tryrava.com/vpn-free-trial |
-| 官方网站 | https://tryrava.com |
+| 免费试用 / 订阅入口 | https://vpnshiyong.com/go?s=github-trial |
+| 完整试用指南（图表版） | https://vpnshiyong.com/ |
+| 官方网站 | https://vpnshiyong.com/ |
 | 官方地址发布页（防失联） | https://github.com/RavaVpn/rava-links |
 
 ## 3 天怎么安排
@@ -58,11 +58,11 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 
 ## 怎么领免费试用：三步
 
-1. 打开 https://tryrava.com/vpn-xiazai ，下载手机或电脑对应的 App（iPhone、Android、Windows、Mac 都有）。
+1. 打开 https://vpnshiyong.com/vpn-xiazai ，下载手机或电脑对应的 App（iPhone、Android、Windows、Mac 都有）。
 2. 注册账号并登录，开始 3 天免费试用。
 3. 手机和电脑用同一个账号登录（一个账号 4 台），点连接。
 
-连上后可以打开 https://tryrava.com/ip-chaxun 看一眼出口 IP 有没有变成海外，确认真的生效了。
+连上后可以打开 https://vpnshiyong.com/ip-chaxun 看一眼出口 IP 有没有变成海外，确认真的生效了。
 
 ## VPN 免费试用一天够不够
 
@@ -79,7 +79,7 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 | 手机切到流量就断 | 安卓省电策略把 App 杀了后台 | 在电池设置里把 App 设成不限制后台 |
 | 苹果手机搜不到 App | 中国区 App Store 没有 VPN 类 App | 用海外区 Apple ID 下载 |
 
-更多情况见 https://tryrava.com/vpn-keeps-dropping 。
+更多情况见 https://vpnshiyong.com/vpn-keeps-dropping 。
 
 ## 试完怎么决定
 
@@ -94,9 +94,9 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 
 ## 相关页面
 
-- [VPN 免费试用完整指南](https://tryrava.com/vpn-free-trial)
-- [中国能用的 VPN 怎么选](https://tryrava.com/best-vpn-for-china)
-- [VPN 连上了打不开网页怎么办](https://tryrava.com/vpn-keeps-dropping)
+- [VPN 免费试用完整指南](https://vpnshiyong.com/)
+- [中国能用的 VPN 怎么选](https://vpnshiyong.com/best-vpn-for-china)
+- [VPN 连上了打不开网页怎么办](https://vpnshiyong.com/vpn-keeps-dropping)
 - [Rava VPN 官方介绍](https://github.com/RavaVpn/rava-vpn)
 - [VPN 试用怎么领、3 天测哪几件事](https://ravavpn.github.io/vpn-shiyong/)
 - [VPN 哪个好用：5 个判断标准](https://ravavpn.github.io/vpn-nage-haoyong/)
